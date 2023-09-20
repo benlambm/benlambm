@@ -29,7 +29,7 @@ Currently involved in open source projects and Java/Kotlin backend programming. 
 ## Education 📚
 Currently completing my Masters of Information Technology at Virginia Tech (online program ranked #3 in nation by US News for 2022 and 2023 🙌). Prior to that: PhD in Sociology from the University of Colorado, Bachelor of Science in Information Technology: Application and Database Development from Liberty University, and a Database and Program Developer Certificate from Virginia Western Community College. 😊
 
-### Courses Taken (For the Curious)
+### Graduate Courses Taken (For the Curious)
 - CS5704 Software Engineering 🛠️
 - CS5044 Object-Oriented Programming in Java ☕
 - CS5744 Software Design and Quality 👨‍💻
@@ -42,6 +42,9 @@ Currently completing my Masters of Information Technology at Virginia Tech (onli
 - CS5254 Mobile Application Development 📱
 - ECE5494 AI Innovation & Machine Learning 🤖
 - MGT5804 Leadership in Tech-Based Organizations 👔
+
+### Graduate Certification Achieved:
+Software Development Graduate Certificate, from Virginia Tech's Graduate Certificate Program
 
 ### Current Certifications 📜
 All active and verifiable certifications on credly.com/users/benjamin-lamb:
