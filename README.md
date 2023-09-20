@@ -3,15 +3,18 @@
 - 📫 How to reach me: benlamb@vt.edu
 
 ## Summary 📝
-Currently involved in open source projects and looking for opportunities in Java/Kotlin backend programming.👀 I am a budding application developer and database programmer, proficient in various programming languages (Kotlin, Java, C#, SQL, Linux/bash scripting, Python, and PHP) and experienced in using Agile methodologies with a variety of frameworks and design patterns. I am also AWS and Azure-certified and previously worked as an IT consultant in the cloud-computing platforms space. I enjoy coding algorithms, reading science-fiction, and my cat Freya. 😻
+Currently involved in open source projects and Java/Kotlin backend programming. I am an application developer and database programmer, proficient in various programming languages (Kotlin, Java, C#, SQL, Linux/bash scripting, Python, and PHP) and experienced in using Agile methodologies with a variety of frameworks and design patterns. I am also AWS and Azure-certified and previously worked as an IT consultant in the cloud-computing platforms space. I enjoy coding algorithms, reading science-fiction, and my cat Freya. 😻
 
 ## Programming Fluencies 💻
-- Fluent: Kotlin, Java, Python, SQL, Git, HTML/CSS
-- Intermediate: C#, JavaScript, Vue.js, PHP, Linux / bash
+- Fluent: Java, Kotlin, Python, SQL, Git, HTML/CSS
+- Can Get Around In: C#, JavaScript, Vue.js, PHP, Linux / bash
 
 ## Work Experience 💼
+### Adjunct Assistant Professor, Virginia Western Community College
+- Data Structures and Algorithms (CSC223)
+- (Intermediate/Advanced) Java Programming II (ITP220)
 
-### Application Developer, Sogeti Consultant – Capgemini 🖥️ (July 2022-Nov 2022)
+### Application Developer, Sogeti Consultant – Capgemini 🖥️ 
 - Developed design patterns for implementing cloud and hybrid security (AWS)
 - Documented database security best practices (SQL Server, Postgresql, MySQL, AWS RDS)
 
@@ -19,18 +22,20 @@ Currently involved in open source projects and looking for opportunities in Java
 - Designed and implemented company Employee Portal
 - Designed and developed AR/VR-focused website
 
-### Information Technology Remote Support Specialist, Liberty University 🌐 (Sept 2020-Feb 2021)
+### Information Technology Remote Support Specialist 🌐 (Sept 2020-Feb 2021)
 - Conducted cloud administration of identity and access management systems (Azure)
 - Proficient in Microsoft 365 apps and Windows troubleshooting
 
 ## Education 📚
-Currently studying at Virginia Tech as a Masters of Information Technology student (online program ranked #3 in nation by US News for 2022 and 2023 🙌). Prior to that, he received his PhD in Sociology from the University of Colorado, Bachelor of Science in Information Technology: Application and Database Development from Liberty University, and a Database and Program Developer Certificate from Virginia Western Community College. 😊
+Currently completing my Masters of Information Technology at Virginia Tech (online program ranked #3 in nation by US News for 2022 and 2023 🙌). Prior to that: PhD in Sociology from the University of Colorado, Bachelor of Science in Information Technology: Application and Database Development from Liberty University, and a Database and Program Developer Certificate from Virginia Western Community College. 😊
 
 ### Courses Taken (For the Curious)
 - CS5704 Software Engineering 🛠️
 - CS5044 Object-Oriented Programming in Java ☕
 - CS5744 Software Design and Quality 👨‍💻
 - ACIS5504 Database Systems and Concepts 📊
+- ACIS5523 Advanced Database Management Systems
+- ECE5594 Data Engineering 
 - CS5244 Web Application Development 🕸️
 - ECE5484 Fundamentals of Computer Systems 💻
 - ECE5480 Cybersecurity and the IoT 🔒
