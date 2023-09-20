@@ -10,11 +10,11 @@ Currently involved in open source projects and Java/Kotlin backend programming. 
 - Can Get Around In: C#, JavaScript, Vue.js, PHP, Linux / bash
 
 ## Work Experience 💼
-### Adjunct Assistant Professor, Virginia Western Community College
+### Adjunct Assistant Professor, Virginia Western Community College (2023-curent)
 - Data Structures and Algorithms (CSC223)
 - (Intermediate/Advanced) Java Programming II (ITP220)
 
-### Application Developer, Sogeti Consultant – Capgemini 🖥️ 
+### Application Developer, Sogeti Consultant – Capgemini 🖥️ (2022)
 - Developed design patterns for implementing cloud and hybrid security (AWS)
 - Documented database security best practices (SQL Server, Postgresql, MySQL, AWS RDS)
 
