@@ -1,38 +1,36 @@
-# Benjamin Lamb, PhD 🎓
+# Dr. Benjamin Lamb
 
-Welcome to my GitHub profile! I'm currently an educator in the field of computer science, specializing in Data Structures, Algorithms, and Java programming. I bring a professional work background in application development, database programming, and cloud computing to my classes and educational projects.
+Currently serving as an educator in the field of computer science, teaching Data Structures, Algorithms, and Java programming, I bring a professional work background in application development, database programming, and cloud computing to my classes and projects. I am OCA-8 certified Java programmer and certified AWS Developer.
 
 - 👋 Hi, I’m @benlambm
 - 📫 Reach me at: benlamb@vt.edu
 
-## About Me 🌟
+## About Me 🎓
 
-As an Adjunct Assistant Professor at Virginia Western Community College, I focus on teaching Data Structures and Algorithms (CSC223) and Intermediate/Advanced Java Programming II (ITP220). My professional experience spans across various domains, from application development to cloud security, which I seamlessly integrate into my teaching methodology. I'm excited about cultivating a learning environment that prepares students for the dynamic and evolving landscape of technology.
+As an adjunct Assistant Professor at *Virginia Western Community College*, I focus on teaching *Data Structures and Algorithms (CSC223)* and *Intermediate/Advanced Java Programming II (ITP220)*. My professional work experiences span across various domains, from application development to cloud security, which inspires my teaching methodology and projects. I'm excited about cultivating a learning environment that prepares students for the dynamic and evolving landscape of technology.
 
 ## Core Expertise 🛠️
 
 - **Primary Teaching Area**: Java Programming, Data Structures & Algorithms, Software Engineering
-- **Programming Fluencies**: Java, Kotlin, Python, SQL, HTML/CSS
+- **Programming Fluencies**: Streams/lambdas, generics, recursion, advanced collections (trees/graphs), code complexity analysis, design patterns, modules, records, etc.
 - **Frameworks**: Java EE, Spring Boot, Android, Vue.js  
-- **On the Data Side**: neo4j, mongoDB, postgres, MySQL, SQL Server, Hibernate/ORMs
-- **Familiar Tools**: linters, static code analyzers, Maven/gradle, git/GitHub,
-- **Other Competencies**: C#, JavaScript, PHP, Linux/bash, Kafka, Apache Airflow
-- Skilled in software engineering methodologies (Agile, e.g. with Jira) and systems design
-- Experienced in object-oriented design and functional programming
-- Familiarity with test-driven development (JUnit)
-- Proficient in source code version control (Git, GitHub)
-- Knowledgeable in program troubleshooting and debugging in IDEs
-- Skilled in OWASP secure coding and regulatory compliance (NIST)
+- **On the Data Side**: neo4j, mongoDB, postgres, MySQL, SQL Server, JDBC, Hibernate/ORMs, big data systems, machine learning algorithms
+- **Familiar Tools**: linters, static code analyzers, build tools (Maven/gradle), logging libraries, AI-assisted coding, containerization (Docker) and orchestration tools (Apache Airflow), CI/CD pipelines 
+- **Other Competencies**: Kotlin, Python, C#, JavaScript, PHP, Linux/bash, HTML/CSS Kafka, Apache Airflow
+  - Software engineering methodologies (Agile, e.g. with Jira)
+  - Cloud-based systems design, mainly AWS and Azure, event streaming queues, and data pipelines
+  - Experienced in object-oriented design and functional programming
+  - Familiarity with test-driven development (JUnit)
+  - Proficient in source code version control (Git, GitHub)
+  - Knowledgeable in program profiling, monitoring and debugging in IDEs
+  - Skilled in OWASP secure coding and regulatory compliance (NIST)
 
 ## Academic Background 🏛️
-
 - **Masters of IT**: Masters of Information Technology, Virginia Tech
+  - **Software Development Graduate Certificate**, from Virginia Tech's Graduate Certificate Program
 - **PhD**: Sociology, University of Colorado
 - **BS**: Information Technology (Application and Database Development), Liberty University
 - **Certificate**: Database and Program Developer, Virginia Western Community College
-
-### Graduate Certification Achieved:
-**Software Development Graduate Certificate**, from Virginia Tech's Graduate Certificate Program
 
 ### Graduate Courses Taken (For the Curious)
 - CS5704 Software Engineering 🛠️
