@@ -14,9 +14,9 @@ As an adjunct Assistant Professor at *Virginia Western Community College*, I foc
 - **Primary Teaching Area**: Java Programming, Data Structures & Algorithms, Software Engineering
 - **Programming Fluencies**: Streams/lambdas, generics, recursion, advanced collections (trees/graphs), code complexity analysis, design patterns, modules, records, etc.
 - **Frameworks**: Java EE, Spring Boot, Android, Vue.js  
-- **On the Data Side**: neo4j, mongoDB, postgres, MySQL, SQL Server, JDBC, Hibernate/ORMs, big data systems, machine learning algorithms
+- **On the Data Side**: neo4j, mongoDB, postgres, MySQL, SQL Server, JDBC, Hibernate/ORMs, big data systems, machine learning algorithms, Kafka, data pipelines
 - **Familiar Tools**: linters, static code analyzers, build tools (Maven/gradle), logging libraries, AI-assisted coding, containerization (Docker) and orchestration tools (Apache Airflow), CI/CD pipelines 
-- **Other Competencies**: Kotlin, Python, C#, JavaScript, PHP, Linux/bash, HTML/CSS Kafka, Apache Airflow
+- **Other Competencies**: Kotlin, Python, C#, JavaScript, PHP, Linux/bash, HTML/CSS
   - Software engineering methodologies (Agile, e.g. with Jira)
   - Cloud-based systems design, mainly AWS and Azure, event streaming queues, and data pipelines
   - Experienced in object-oriented design and functional programming
