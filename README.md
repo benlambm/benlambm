@@ -3,7 +3,6 @@
 Currently serving as an educator in the field of computer science, teaching Data Structures, Algorithms, and Java programming, I bring a professional work background in application development, database programming, and cloud computing to my classes and projects. I am OCA-8 certified Java programmer and certified AWS Developer.
 
 - 👋 Hi, I’m @benlambm
-- 📫 Reach me at: benlamb@vt.edu
 
 ## About Me 🎓
 
